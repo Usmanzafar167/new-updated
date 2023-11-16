@@ -11,7 +11,7 @@ main:
     - "5. All Kinds Of Scrap Items"
 
 content:
-  - image: "images/metal.jpeg"
+  - image: "images/"
     title: "Metal Waste"
     text: "Zafar Scrap Company specializes in the comprehensive management of metal scrap, encompassing collection, sorting, processing, and global export services. Our commitment is to deliver dependable and sustainable recycling solutions to both individuals and businesses, contributing to environmental stewardship and resource conservation."
 
