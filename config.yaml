@@ -1,0 +1,75 @@
+baseURL: "https://www.example.com/"
+theme: "up-business-theme"
+languageCode: "en-us"
+
+title: "ZAFAR ABDUL RAZZAQ"
+
+# googleAnalytics: ""
+
+summaryLength: 20
+
+params:
+  title: "ZAFAR ABDUL RAZZAQ SCRAP & METAL WASTE TRADING L.L.C."
+  description: "Zafar Scrap is your trusted partner in responsible Scrap management and recycling solutions."
+  images: 
+    - "images/hero-image.png"
+
+  favicons:
+    themeColor: "#FFFFFF"
+    backgroundColor: "#FFFFFF"
+    faviconColor: "#000000"
+
+  social:
+    tiktok: "https://www.tiktok.com/@mr.usmanzafar?_t=8fiWe7MiWp7&_r=1"
+    instagram: "https://www.instagram.com/mr.usmanzafar_?igshid=NzZlODBkYWE4Ng%3D%3D"
+    facebook: "https://www.facebook.com/profile.php?id=100014737745386&mibextid=ZbWKwL"
+    whatsapp: "https://api.whatsapp.com/send/?phone=%2B971556755256&text&type=phone_number&app_absent=0"
+
+  location:
+    - "United Arab Emirates"
+
+  contact:
+    email:
+      - "zafaruae@ymail.com"
+    number:
+      - "0556755256"
+      - "0554244966"
+
+  copyright: "© 2022 ZAFAR ABDUL RAZZAQ SCRAP & METAL WASTE TRADING L.L.C."
+
+menus:
+  main:
+    - name: "Home"
+      url: "/"
+      weight: 1
+
+    - name: "Services"
+      url: "#services"
+      weight: 4
+
+  buttons:
+    - name: "Contact Us"
+      url: "#contact"
+      weight: 5
+      pre: "btn btn-primary text-light"
+
+  footer:
+    - name: "Home"
+      url: "#hero"
+      weight: 1
+
+    - name: "About"
+      url: "#"
+      weight: 2
+
+    - name: "Our Team"
+      url: "#"
+      weight: 3
+
+    - name: "Services"
+      url: "#"
+      weight: 4
+
+taxonomies:
+  series: "series"
+  tags: "tags"

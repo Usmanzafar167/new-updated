@@ -1,0 +1,28 @@
+enabled: true
+id: "services"
+
+main:
+  title: "Our Services"
+  services:
+    - "1. Removing All Disposable Items"
+    - "2. Dimolishan Office Flats Shops"
+    - "3. Metal Aluminium Copper Battery S.S"
+    - "4. AC Steel Copper Brance Aluminium"
+    - "5. All Kinds Of Scrap Items"
+
+content:
+  - image: "images/metal.jpeg"
+    title: "Metal Waste"
+    text: "Zafar Scrap Company specializes in the comprehensive management of metal scrap, encompassing collection, sorting, processing, and global export services. Our commitment is to deliver dependable and sustainable recycling solutions to both individuals and businesses, contributing to environmental stewardship and resource conservation."
+
+  - image: "images/aluminum.jpeg"
+    title: "Aluminum Waste"
+    text: "Transform your aluminum scrap into valuable returns with Zafar Scrap Company's premier recycling services. We specialize in the efficient collection, meticulous sorting, and advanced processing of aluminum waste, ensuring top-dollar compensation for your materials."
+
+  - image: "images/copper.jpeg"
+    title: "Copper Waste"
+    text: "Maximize the value of your copper scrap through Zafar Scrap Company's dependable and efficient recycling services. Our comprehensive offerings encompass the meticulous collection, sorting, and advanced processing of copper materials, ensuring you receive the best returns for your valuable scrap."
+  
+  - image: "images/vehicles.jpeg"
+    title: "Vehicles Waste"
+    text: "Effortlessly dispose of your old or damaged vehicles while maximizing the value of your scrap metal through Zafar Scrap Company's reliable and environmentally conscious vehicle scrap recycling services. Our commitment is to provide a seamless process, ensuring you receive the best value for your scrap while contributing to sustainable and eco-friendly practices."

@@ -1,0 +1,11 @@
+enabled: true
+id: "hero"
+
+content:
+  title: "Welcome To **Zafar Scrap** Company."
+  text: "Zafar Scrap is a leading Scrap and recycling company dedicated to sustainable waste management solutions. With a commitment to environmental responsibility and resource conservation, Zafar Scrap specializes in the collection, processing, and recycling of various materials, including metals, plastics, paper, and electronics."
+
+  buttonSecondary:
+    label: "Let's talk"
+    url: "#contact"
+
